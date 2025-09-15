@@ -32,7 +32,7 @@ I’m covering problems **topic by topic** in sequence, each with **75+ problems
 ---
 
 ## 🏗️ Folder Structure
-'''
+```
 LeetCode-Problems/
 ├── Array/
 │ ├── Easy/
@@ -45,7 +45,7 @@ LeetCode-Problems/
 ├── Trees/
 ├── Graphs/
 └── Dynamic-Programming/
-'''
+```
 
 Each topic folder has:
 - **Easy, Medium, Hard** subfolders  
