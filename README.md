@@ -34,17 +34,18 @@ I’m covering problems **topic by topic** in sequence, each with **75+ problems
 ## 🏗️ Folder Structure
 ```
 LeetCode-Problems/
-├── Array/
-│ ├── Easy/
-│ ├── Medium/
-│ └── Hard/
-├── Strings/
-├── Stacks/
-├── Queues/
-├── Linked-Lists/
-├── Trees/
-├── Graphs/
-└── Dynamic-Programming/
+📂 Array/
+   ├── 📁 Easy/
+   ├── 📁 Medium/
+   └── 📁 Hard/
+📂 Strings/
+📂 Stacks/
+📂 Queues/
+📂 Linked-Lists/
+📂 Trees/
+📂 Graphs/
+📂 Dynamic-Programming/
+
 ```
 
 Each topic folder has:
