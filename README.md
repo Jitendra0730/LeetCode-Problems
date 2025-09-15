@@ -82,7 +82,7 @@ Each topic folder has:
 
 ## 🔗 Connect with Me
 
-I’ll be sharing my **daily progress & key takeaways** on [LinkedIn](your-linkedin-url).  
+I’ll be sharing my **daily progress & key takeaways** on [LinkedIn](https://www.linkedin.com/in/jitendra72003).  
 Let’s learn, grow, and inspire each other through this journey 💡  
 
 ---
