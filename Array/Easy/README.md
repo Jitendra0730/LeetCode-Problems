@@ -13,6 +13,7 @@ Target: **25 Easy Array Problems** ✅
 4. [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)
 5. [66. Plus One](https://leetcode.com/problems/plus-one)
 6. [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+7. [136 Single Number](https://leetcode.com/problems/single-number)
 
 ---
 
