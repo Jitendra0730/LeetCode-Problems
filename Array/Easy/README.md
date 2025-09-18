@@ -16,6 +16,8 @@ Target: **25 Easy Array Problems** ✅
 7. [136 Single Number](https://leetcode.com/problems/single-number)
 8. [169 Majority Element](https://leetcode.com/problems/majority-element)
 9. [217 Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
+10. [268 Missing Number](https://leetcode.com/problems/missing-number)
+11. [283 Move Zeroes](https://leetcode.com/problems/move-zeroes)
 
 ---
 
