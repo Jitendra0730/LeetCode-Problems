@@ -19,6 +19,7 @@ Target: **25 Easy Array Problems** ✅
 10. [268 Missing Number](https://leetcode.com/problems/missing-number)
 11. [283 Move Zeroes](https://leetcode.com/problems/move-zeroes)
 12. [88 Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+13. [704 Binary Search](https://leetcode.com/problems/binary-search)
 
 ---
 
