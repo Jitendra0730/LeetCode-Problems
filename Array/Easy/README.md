@@ -21,6 +21,7 @@ Target: **25 Easy Array Problems** ✅
 12. [88 Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 13. [704 Binary Search](https://leetcode.com/problems/binary-search)
 14. [747 Largest Number Atleast Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others)
+15. [485 Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)
 
 ---
 
