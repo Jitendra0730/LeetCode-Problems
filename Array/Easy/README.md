@@ -24,6 +24,7 @@ Target: **25 Easy Array Problems** ✅
 15. [485 Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)
 16. [9 Palindrome Number](https://leetcode.com/problems/palindrome-number)
 17. [53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+18. [961 N-Repeated Element In Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array)
 
 ---
 
