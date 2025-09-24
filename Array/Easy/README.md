@@ -23,6 +23,7 @@ Target: **25 Easy Array Problems** ✅
 14. [747 Largest Number Atleast Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others)
 15. [485 Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)
 16. [9 Palindrome Number](https://leetcode.com/problems/palindrome-number)
+17. [53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 
 ---
 
