@@ -27,6 +27,7 @@ Target: **25 Easy Array Problems** ✅
 18. [961 N-Repeated Element In Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array)
 19. [905 Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)
 20. [605 Can Place Flower](https://leetcode.com/problems/can-place-flowers)
+21. [628 Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)
 
 ---
 
