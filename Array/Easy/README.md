@@ -26,6 +26,7 @@ Target: **25 Easy Array Problems** ✅
 17. [53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 18. [961 N-Repeated Element In Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array)
 19. [905 Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)
+20. [605 Can Place Flower](https://leetcode.com/problems/can-place-flowers)
 
 ---
 
