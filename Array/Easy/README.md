@@ -29,6 +29,7 @@ Target: **25 Easy Array Problems** ✅
 20. [605 Can Place Flower](https://leetcode.com/problems/can-place-flowers)
 21. [628 Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)
 22. [448 Find all Number Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)
+23. [643 Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)
 
 ---
 
