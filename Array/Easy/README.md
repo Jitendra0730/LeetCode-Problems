@@ -32,6 +32,7 @@ Target: **25 Easy Array Problems** ✅
 23. [643 Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)
 24. [717 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)
 25. [744 Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)
+26. [1287 Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)
 
 ---
 
