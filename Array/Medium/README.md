@@ -7,7 +7,8 @@ Target: **25+ Medium Array Problems** ✅
 
 ## 📌 Solved Problems
 
-1.[11 Container With Most Water](https://leetcode.com/problems/container-with-most-water)
+1. [11 Container With Most Water](https://leetcode.com/problems/container-with-most-water)
+2. [31 Next Permutation](https://leetcode.com/problems/next-permutation)
 
 ---
 
