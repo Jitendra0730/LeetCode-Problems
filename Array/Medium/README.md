@@ -9,6 +9,7 @@ Target: **25+ Medium Array Problems** ✅
 
 1. [11 Container With Most Water](https://leetcode.com/problems/container-with-most-water)
 2. [31 Next Permutation](https://leetcode.com/problems/next-permutation)
+3. [33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 
 ---
 
