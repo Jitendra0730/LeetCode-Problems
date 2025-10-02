@@ -14,6 +14,7 @@ Target: **25+ Medium Array Problems** ✅
 5. [48 Rotate Image](https://leetcode.com/problems/rotate-image)
 6. [53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 7. [75 Sort Colors](https://leetcode.com/problems/sort-colors)
+8. [167 Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 
 ---
 
