@@ -11,10 +11,11 @@ Target: **25+ Medium Array Problems** ✅
 2. [31. Next Permutation](https://leetcode.com/problems/next-permutation)
 3. [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 4. [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
-5. [48 Rotate Image](https://leetcode.com/problems/rotate-image)
-6. [53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
-7. [75 Sort Colors](https://leetcode.com/problems/sort-colors)
-8. [167 Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
+5. [48. Rotate Image](https://leetcode.com/problems/rotate-image)
+6. [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+7. [75. Sort Colors](https://leetcode.com/problems/sort-colors)
+8. [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
+9. [238. Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
 
 ---
 
