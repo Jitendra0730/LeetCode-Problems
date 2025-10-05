@@ -16,6 +16,7 @@ Target: **25+ Medium Array Problems** ✅
 7. [75. Sort Colors](https://leetcode.com/problems/sort-colors)
 8. [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 9. [238. Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
+10. [55 Jump Game](https://leetcode.com/problems/jump-game)
 
 ---
 
