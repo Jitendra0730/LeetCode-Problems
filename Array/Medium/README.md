@@ -20,6 +20,7 @@ Target: **25+ Medium Array Problems** ✅
 11. [132. Single Number II](https://leetcode.com/problems/single-number-ii)
 12. [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
 13. [162 Find Peak Element](https://leetcode.com/problems/find-peak-element)
+14. [189 Rotate Array](https://leetcode.com/problems/rotate-array)
 
 ---
 
