@@ -19,8 +19,9 @@ Target: **25+ Medium Array Problems** ✅
 10. [55. Jump Game](https://leetcode.com/problems/jump-game)
 11. [132. Single Number II](https://leetcode.com/problems/single-number-ii)
 12. [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
-13. [162 Find Peak Element](https://leetcode.com/problems/find-peak-element)
-14. [189 Rotate Array](https://leetcode.com/problems/rotate-array)
+13. [162. Find Peak Element](https://leetcode.com/problems/find-peak-element)
+14. [189. Rotate Array](https://leetcode.com/problems/rotate-array)
+15. [204. Count Primes](https://leetcode.com/problems/count-primes)
 
 ---
 
