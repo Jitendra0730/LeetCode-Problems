@@ -22,6 +22,7 @@ Target: **25+ Medium Array Problems** ✅
 13. [162. Find Peak Element](https://leetcode.com/problems/find-peak-element)
 14. [189. Rotate Array](https://leetcode.com/problems/rotate-array)
 15. [204. Count Primes](https://leetcode.com/problems/count-primes)
+16. [229. Majority Element II](https://leetcode.com/problems/majority-element-ii)
 
 ---
 
