@@ -23,7 +23,8 @@ Target: **25+ Medium Array Problems** ✅
 14. [189. Rotate Array](https://leetcode.com/problems/rotate-array)
 15. [204. Count Primes](https://leetcode.com/problems/count-primes)
 16. [229. Majority Element II](https://leetcode.com/problems/majority-element-ii)
-17. [260](https://leetcode.com/problems/single-number-iii)
+17. [260. Single Number III](https://leetcode.com/problems/single-number-iii)
+18. [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)
 
 ---
 
