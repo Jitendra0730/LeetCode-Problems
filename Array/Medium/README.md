@@ -27,6 +27,7 @@ Target: **25+ Medium Array Problems** ✅
 18. [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)
 19. [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
 20. [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)
+21. [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)
 
 ---
 
