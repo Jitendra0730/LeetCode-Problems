@@ -26,6 +26,7 @@ Target: **25+ Medium Array Problems** ✅
 17. [260. Single Number III](https://leetcode.com/problems/single-number-iii)
 18. [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)
 19. [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
+20. [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)
 
 ---
 
