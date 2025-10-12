@@ -28,6 +28,7 @@ Target: **25+ Medium Array Problems** ✅
 19. [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
 20. [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)
 21. [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)
+22. [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)
 
 ---
 
