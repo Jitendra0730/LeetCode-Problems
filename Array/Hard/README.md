@@ -10,6 +10,7 @@ Target: **25+ Hard Array Problems** ✅
 1. [4. Median of Two Sorted Array](https://leetcode.com/problems/median-of-two-sorted-arrays)
 2. [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 3. [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive)
+4. [135. Candy](https://leetcode.com/problems/candy)
 
 ---
 
