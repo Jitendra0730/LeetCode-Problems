@@ -11,6 +11,7 @@ Target: **25+ Hard Array Problems** ✅
 2. [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 3. [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive)
 4. [135. Candy](https://leetcode.com/problems/candy)
+5. [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)
 
 ---
 
