@@ -13,6 +13,7 @@ Target: **25+ Hard Array Problems** ✅
 4. [135. Candy](https://leetcode.com/problems/candy)
 5. [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)
 6. [327. Count of Range Sum](https://leetcode.com/problems/count-of-range-sum)
+7. [330. Patching Array](https://leetcode.com/problems/patching-array)
 
 Coming soon
 
