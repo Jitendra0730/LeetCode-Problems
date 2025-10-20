@@ -15,6 +15,7 @@ Target: **25+ Hard Array Problems** ✅
 6. [327. Count of Range Sum](https://leetcode.com/problems/count-of-range-sum)
 7. [330. Patching Array](https://leetcode.com/problems/patching-array)
 8. [335. Self Crossing](https://leetcode.com/problems/self-crossing)
+9. [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum)
 
 Coming soon
 
