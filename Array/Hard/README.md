@@ -17,6 +17,7 @@ Target: **25+ Hard Array Problems** ✅
 8. [335. Self Crossing](https://leetcode.com/problems/self-crossing)
 9. [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum)
 10. [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs)
+11. [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance)
 
 Coming soon
 
