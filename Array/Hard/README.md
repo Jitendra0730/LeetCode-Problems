@@ -18,6 +18,7 @@ Target: **25+ Hard Array Problems** ✅
 9. [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum)
 10. [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs)
 11. [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance)
+12. [768. Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii)
 
 Coming soon
 
