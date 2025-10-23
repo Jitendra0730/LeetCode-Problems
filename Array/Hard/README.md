@@ -22,7 +22,7 @@ Target: **25+ Hard Array Problems** ✅
 13. [798. Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score)
 14. [810. Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game)
 
-Coming soon
+More Coming soon...
 
 ---
 
