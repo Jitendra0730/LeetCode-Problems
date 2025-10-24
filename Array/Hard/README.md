@@ -21,6 +21,7 @@ Target: **25+ Hard Array Problems** ✅
 12. [768. Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii)
 13. [798. Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score)
 14. [810. Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game)
+15. [891. Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths)
 
 More Coming soon...
 
