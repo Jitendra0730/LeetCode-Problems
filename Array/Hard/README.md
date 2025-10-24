@@ -22,6 +22,7 @@ Target: **25+ Hard Array Problems** ✅
 13. [798. Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score)
 14. [810. Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game)
 15. [891. Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths)
+16. [927. Three Equal Parts](https://leetcode.com/problems/three-equal-parts)
 
 More Coming soon...
 
