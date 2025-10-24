@@ -87,6 +87,6 @@ Let’s learn, grow, and inspire each other through this journey 💡
 
 ---
 
-⭐ If you find this repo helpful or inspiring, please **star it** to support the journey! ⭐  
+⭐ If you find this repo helpful or inspiring, please **STAR** it to support the journey! ⭐  
 
 
