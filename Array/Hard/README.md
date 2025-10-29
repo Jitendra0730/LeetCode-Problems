@@ -24,6 +24,7 @@ Target: **25+ Hard Array Problems** ✅
 15. [891. Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths)
 16. [927. Three Equal Parts](https://leetcode.com/problems/three-equal-parts)
 17. [982. Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero)
+18. [995. Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips)
 
 More Coming soon...
 
