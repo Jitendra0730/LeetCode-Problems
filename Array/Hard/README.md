@@ -25,6 +25,7 @@ Target: **25+ Hard Array Problems** ✅
 16. [927. Three Equal Parts](https://leetcode.com/problems/three-equal-parts)
 17. [982. Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero)
 18. [995. Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips)
+19. [1224. Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency)
 
 More Coming soon...
 
